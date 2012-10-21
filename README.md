@@ -8,8 +8,8 @@ Install
 
 make install (change destination in make file).
 
-How to use
-----------
+How to become an immortal
+-------------------------
 
 elixir exec_file [args...]
 
