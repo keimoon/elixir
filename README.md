@@ -6,12 +6,17 @@ A simple tool that will restart a process when the process is killed or exit.
 Install
 -------
 
-make install (chan destination in make file).
+make install (change destination in make file).
 
 How to use
 ----------
 
 elixir exec_file [args...]
+
+How to suicide
+--------------
+
+Kill elixir process
 
 Notice
 ------
